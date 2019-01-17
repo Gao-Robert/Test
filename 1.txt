@@ -1,3 +1,1 @@
-this is new and changed
-this is what I add local
-add by txt
+this is for  new branch feature_x
